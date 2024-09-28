@@ -3,15 +3,16 @@ async function startTyping() {
         strings: [
             'Hey I am Vikash.',
             'I am a student.',
+            'I am a Full Stack Developer.',
             'I am a UI/UX Designer.',
-            'I am a Web Developer.',
-            'I am a Grapics Designer.'
+            'I am a Web Developer.'
+            
         ],
         smartBackspace: true,
         loop: true,
         typeSpeed: 60,
         backSpeed: 40,
-        backDelay: 3000,
+        backDelay: 1000,
         startDelay: 1000,
     });
 
