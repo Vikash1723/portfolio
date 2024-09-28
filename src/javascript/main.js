@@ -6,7 +6,6 @@ async function startTyping() {
             'I am a Full Stack Developer.',
             'I am a UI/UX Designer.',
             'I am a Web Developer.'
-            
         ],
         smartBackspace: true,
         loop: true,
