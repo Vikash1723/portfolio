@@ -3,7 +3,8 @@ async function startTyping() {
         strings: [
             'Hey I am Vikash.',
             'I am a student.',
-            'I am a Full Stack Developer.',
+            'I am a MERN Stack Developer.',
+            'I am a Java Full Stack Developer.',
             'I am a UI/UX Designer.',
             'I am a Web Developer.'
         ],
