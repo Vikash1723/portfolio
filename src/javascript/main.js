@@ -2,7 +2,6 @@ async function startTyping() {
     var typed = new Typed('.typing', {
         strings: [
             'Hey I am Vikash.',
-            'I am a student.',
             'I am a MERN Stack Developer.',
             'I am a UI/UX Designer.',
             'I am a Web Developer.'
